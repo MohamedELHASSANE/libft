@@ -12,7 +12,7 @@
 
 #include "libft.h"
 
-int	ft_atoi(const char *str)
+int	mevk_atoi(const char *str)
 {
 	int n;
 	int	s;
